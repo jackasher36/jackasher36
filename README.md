@@ -47,27 +47,11 @@
 </table>
 
 ### 💡 专业领域
-- **Java 生态系统**：
-  - 核心Java (多线程、IO流、集合框架、JUC)
-  - JVM原理 (内存模型、垃圾回收、类加载机制)
-  - JavaWeb & Servlet规范
-  - Spring全家桶 (Spring、SpringMVC、MyBatis、SpringBoot)
-  - 微服务架构 (SpringCloud、Nacos、Gateway、OpenFeign)
-  - Spring Security
-
-- **Web 前端**：
-  - 现代CSS (选择器、盒模型、浮动、定位、Flexbox)
-  - JavaScript深度学习
-  - 前端框架 (Vue2/3、React)
-  - AJAX & 前后端交互
-  - Vue & React (Vant/Ant Design)
-
-- **基础理论**：
-  - 计算机网络（跨域问题研究等）
-  - 操作系统原理
-  - 数据结构与算法基础
-  - 设计模式应用
-  - 数据库系统原理
+	Java基础：掌握集合、多线程、IO等核心，熟练Stream/Lambda/Optional；了解JVM（内存结构、GC）、常用设计模式（工厂、单例等23种）、JUC (线程池,锁机制,原子类)、掌握DDD设计原则，具备全栈部署能力
+	框架技术：熟练SpringBoot（IOC/AOP）、MyBatisPlus，掌握SpringCloud（网关/注册中心/熔断）
+	数据库：精通MySQL（SQL优化、事务、索引原理）, 掌握Redis核心功能（数据结构、持久化机制、高可用方案）及典型应用场景（缓存/分布式锁/队列）。
+	网络与Linux: 熟悉计算机网络基础知识(TCP/IP  HTTP); 熟悉Linux操作系统，能够在Linux环境下进行软件部署和服务器管理；熟练使用Git/Maven/Postman/Apifox/Swagger/Nginx
+	前端技术：掌握HTML/CSS/ES6+，Vue/React+Node.js，熟悉Ant Design/Vant等组件库
 
 ## 🚀 项目经验
 
