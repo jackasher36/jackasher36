@@ -6,9 +6,10 @@
 
 <p align="center">
   <a href="https://ai.jackasher.com"><img src="https://img.shields.io/badge/网站-AI.JackAsher.com-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-联系我-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:jackasher36@gmail.com"><img src="https://img.shields.io/badge/Email-jackasher36@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Jackasher36"><img src="https://img.shields.io/badge/GitHub-Jackasher36-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
 
 ## 👨‍💻 关于我
 
