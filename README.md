@@ -47,11 +47,11 @@
 </table>
 
 ### 💡 专业领域
-	Java基础：掌握集合、多线程、IO等核心，熟练Stream/Lambda/Optional；了解JVM（内存结构、GC）、常用设计模式（工厂、单例等23种）、JUC (线程池,锁机制,原子类)、掌握DDD设计原则，具备全栈部署能力
-	框架技术：熟练SpringBoot（IOC/AOP）、MyBatisPlus，掌握SpringCloud（网关/注册中心/熔断）
-	数据库：精通MySQL（SQL优化、事务、索引原理）, 掌握Redis核心功能（数据结构、持久化机制、高可用方案）及典型应用场景（缓存/分布式锁/队列）。
-	网络与Linux: 熟悉计算机网络基础知识(TCP/IP  HTTP); 熟悉Linux操作系统，能够在Linux环境下进行软件部署和服务器管理；熟练使用Git/Maven/Postman/Apifox/Swagger/Nginx
-	前端技术：掌握HTML/CSS/ES6+，Vue/React+Node.js，熟悉Ant Design/Vant等组件库
++	Java基础：掌握集合、多线程、IO等核心，熟练Stream/Lambda/Optional；了解JVM（内存结构、GC）、常用设计模式（工厂、单例等23种）、JUC (线程池,锁机制,原子类)、掌握DDD设计原则，具备全栈部署能力
++	框架技术：熟练SpringBoot（IOC/AOP）、MyBatisPlus，掌握SpringCloud（网关/注册中心/熔断）
++	数据库：精通MySQL（SQL优化、事务、索引原理）, 掌握Redis核心功能（数据结构、持久化机制、高可用方案）及典型应用场景（缓存/分布式锁/队列）。
++	网络与Linux: 熟悉计算机网络基础知识(TCP/IP  HTTP); 熟悉Linux操作系统，能够在Linux环境下进行软件部署和服务器管理；熟练使用Git/Maven/Postman/Apifox/Swagger/Nginx
++	前端技术：掌握HTML/CSS/ES6+，Vue/React+Node.js，熟悉Ant Design/Vant等组件库
 
 ## 🚀 项目经验
 
