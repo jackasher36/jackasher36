@@ -125,17 +125,6 @@
    <img src="https://img.shields.io/github/watchers/Jackasher36/Jackasher36?style=social" alt="访问统计" />
 </p>
 
-<!-- 访问计数器 -->
-<p align="center">
-  <img src="https://img.shields.io/github/watchers/Jackasher36/Jackasher36?style=for-the-badge&label=访客数&color=0e75b6" alt="访问统计" />
-  <img src="https://img.shields.io/github/followers/Jackasher36?style=for-the-badge&label=关注者&color=success" alt="关注者统计" />
-</p>
-
-<!-- 底部信息 -->
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-</p>
-
 <p align="center">
   欢迎访问我的AI聊天平台：<a href="https://ai.jackasher.com">ai.jackasher.com</a>
 </p>
