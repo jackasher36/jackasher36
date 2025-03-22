@@ -120,10 +120,6 @@
 
 ---
 
-<!-- 访问计数器 -->
-<p align="center">
-   <img src="https://img.shields.io/github/watchers/Jackasher36/Jackasher36?style=social" alt="访问统计" />
-</p>
 
 <p align="center">
   <a href="https://blog.csdn.net/m0_73833369"><img src="https://img.shields.io/badge/CSDN-博客主页-FC5531?style=for-the-badge&logo=c&logoColor=white"></a>
@@ -131,11 +127,17 @@
 
 <!-- 纯文本联系方式，确保正确显示 -->
 <p align="center">
-  <strong>📱 微信号：</strong> <code>jack_asher</code> &nbsp;&nbsp;
+  <strong>📱 微信号：</strong> <code>Jack_Asher</code> &nbsp;&nbsp;
   <strong>🐧 QQ号：</strong> <code>1046654076</code>
 </p>
 
 <p align="center">
   欢迎访问我的AI聊天平台：<a href="https://ai.jackasher.com">ai.jackasher.com</a>
+</p>
+
+
+<!-- 访问计数器 -->
+<p align="center">
+   <img src="https://img.shields.io/github/watchers/Jackasher36/Jackasher36?style=social" alt="访问统计" />
 </p>
 
