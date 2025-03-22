@@ -137,7 +137,7 @@
 
 <!-- 访问计数器 -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Jackasher36&label=访客数&color=0e75b6&style=for-the-badge" alt="访问量统计" />
+   <img src="https://img.shields.io/github/watchers/Jackasher36/Jackasher36?style=social" alt="访问统计" />
 </p>
 
 <!-- 底部信息 -->
