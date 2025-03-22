@@ -137,8 +137,7 @@
 
 <!-- 访问计数器 -->
 <p align="center">
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-            <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+<img src="https://komarev.com/ghpvc/?username=Jackasher36&label=访客数&color=0e75b6&style=for-the-badge" alt="访问量统计" />
 </p>
 
 <!-- 底部信息 -->
